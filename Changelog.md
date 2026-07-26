@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/AtomiCloud/diene.go-api-engine/compare/v1.0.0...v1.0.1) (2026-07-26)
+
+
+### 🐛 Bug Fixes 🐛
+
+* **api-engine:** drop non-portable duration pattern ([0e2b34c](https://github.com/AtomiCloud/diene.go-api-engine/commit/0e2b34c69862cf9f4b988d91ad4d5fd13927db44))
+
 ## 1.0.0 (2026-07-25)
 
 
